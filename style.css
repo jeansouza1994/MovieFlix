@@ -1,0 +1,20 @@
+body {
+    background-color: #050505;
+    overflow-x: hidden;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.bg-escuro {
+    background-color: #050505;
+}
+
+.bg-img {
+    background-image: url("img/quem-somos.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right top;
+    height: 35rem;
+}
